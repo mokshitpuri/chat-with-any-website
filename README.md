@@ -20,11 +20,17 @@ It scrapes the site, creates embeddings, and allows you to ask context-aware que
 ## 🏗️ Tech Stack
 Layer	Tools
 Frontend/UI	Streamlit
+
 Backend	Python
+
 Framework	LangChain
+
 Embeddings	OpenAIEmbeddings
+
 Vector DB	Chroma
+
 Scraping	BeautifulSoup, Requests
+
 Environment Management	dotenv
 
 ## 🧪 Setup Instructions
