@@ -38,7 +38,9 @@ cd chat-with-any-website
 Create a virtual environment
 
 python -m venv venv
+
 source venv/bin/activate      # for macOS/Linux
+
 venv\Scripts\activate         # for Windows
 
 
